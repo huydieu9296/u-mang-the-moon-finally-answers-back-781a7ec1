@@ -7,6 +7,7 @@ import { fileURLToPath } from "node:url";
 // The earplugs gag was a quick joke; the birthday line is wryer and older —
 // four billion years of granting wishes, and nobody ever wished the Moon
 // anything back. It sounds like the Moon, and the turn lands in one read.
+// Why it wins: the Moon is not angry, just mildly, cosmically unappreciated.
 const ENTRY =
   "Four billion years of wishes, and not one of you has ever wished me a happy birthday.";
 
